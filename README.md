@@ -6,3 +6,10 @@ Minishell in C with Process Creation
 ```sh
 make
 ```
+
+## Supported Commands
+
+```sh
+date
+pstree
+```
